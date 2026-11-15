@@ -8,9 +8,7 @@
 
 **A private, member-run workshop for people building agents, APIs, and MCP tools on Skylit data.**
 
-[Request access](https://github.com/Skylit-Community) &nbsp;·&nbsp; [Skylit.ai](https://www.skylit.ai) &nbsp;·&nbsp; [Skylit docs](https://docs.skylit.ai)
-
-<!-- TODO: replace the "Request access" link with the Discord-role verification page once it is built. -->
+[Request access](https://skylit-access.vercel.app) &nbsp;·&nbsp; [Skylit.ai](https://www.skylit.ai) &nbsp;·&nbsp; [Skylit docs](https://docs.skylit.ai)
 
 </div>
 
